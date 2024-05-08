@@ -1,6 +1,6 @@
 package com.example.Jardineria;
 
-import org.springframework.boot.SpringApplication;
+import 6org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

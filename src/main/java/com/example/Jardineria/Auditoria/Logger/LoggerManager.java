@@ -1,6 +1,7 @@
+package com.example.Jardineria.Auditoria.Logger;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.example.Jardineria.ModuloAPedido.Entity;
+
 
 public class LoggerManager {
     private static final Logger logger = LoggerFactory.getLogger(LoggerManager.class);
